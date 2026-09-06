@@ -136,5 +136,4 @@ hexadecimal, además del texto legible.
   calibración de tu propia unidad y no la de un `.sav` genérico.
 
 ## Licencia
-
-MIT (o la que prefieras usar en tu repo).
+GPL-3.0 license
